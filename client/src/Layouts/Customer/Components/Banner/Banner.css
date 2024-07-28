@@ -1,0 +1,7 @@
+.contactBannerBg::before {
+  --border-transition: 0.3s;
+}
+.contactBannerBg::before {
+  --background-overlay: "";
+  background-color: var(--e-global-color-accent);
+}
